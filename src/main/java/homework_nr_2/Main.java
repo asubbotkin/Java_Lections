@@ -1,9 +1,12 @@
 package homework_nr_2;
 
-    // psvm
 public class Main {
-    // sout
+    int x = 5;
+
+    //     psvm
     public static void main(String[] args) {
-        System.out.println("Hello");
+        Main myObj = new Main();
+        //     sout
+        System.out.println(myObj.x);
     }
 }
