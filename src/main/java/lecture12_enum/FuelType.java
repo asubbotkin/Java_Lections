@@ -7,5 +7,6 @@ public enum FuelType {
     DIESEL_51,
     DIESEL_55,
     PROPANE,
-    METAN;
+    METAN,
+    ELECTRIC;
 }
